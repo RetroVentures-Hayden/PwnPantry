@@ -36,6 +36,16 @@ Each entry uses this format:
 ## What's next
 ```
 
+## How to view the logs
+
+Every entry is a plain Markdown file in the [`log/`](https://github.com/RetroVentures-Hayden/PwnPantry/tree/main/log) folder — no special tools needed:
+
+1. Open the [`log/`](https://github.com/RetroVentures-Hayden/PwnPantry/tree/main/log) folder.
+2. Files are named by date (`YYYY-MM-DD-device-short-title.md`), so they sort in order — the newest entry is the last one in the list.
+3. Click any file to read it right here on GitHub. Each entry opens with the date, device, type, and result, then what I did, what happened, and what's next.
+
+Cloning the repo instead? Same deal — the entries are in the `log/` folder and open in any text or Markdown editor.
+
 ## House rules
 
 - Everything documented here is my own hardware and my own work.
