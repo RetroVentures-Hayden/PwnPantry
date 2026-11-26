@@ -10,6 +10,7 @@ Run by [RetroVentures-Hayden](https://github.com/RetroVentures-Hayden) — also 
 | --- | --- | --- |
 | Nintendo Switch 2 | Firmware 23.5.0 — watching and building | Homebrew dev with libounce / ounce-devkit. Fuzzing Switch 1 apps that run on it through backwards compatibility. |
 | Nintendo 3DS XL (2013, original model) | Modded — Luma3DS / boot9strap | Stable. Watching for any new brick risk from Nintendo. |
+| Nintendo Wii (launch model) | Modded — Homebrew Channel | Complete in box. The GameCube-compatible model. Nintendo left this one alone in 2010, so it just works. |
 | Home server (2022 HP Victus laptop, ZimaOS) | Running | The build box: Docker, the ounce-devkit toolchain, and game streaming over Tailscale. |
 
 ## The log
